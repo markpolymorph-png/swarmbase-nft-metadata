@@ -1,0 +1,24 @@
+{
+  "name": "SwarmBase OG",
+  "description": "Original Gangster of SwarmBase. Limited to 5,000. Earned by reaching 5,000 SwarmScore with 14 days on-chain.",
+  "image": "https://markpolymorph-png.github.io/swarmbase-nft-metadata/images/3.svg",
+  "external_url": "https://swarmbase.io",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "OG"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Soulbound"
+    },
+    {
+      "trait_type": "Score Required",
+      "value": "5,000 SwarmScore + 14 days"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "5,000"
+    }
+  ]
+}
