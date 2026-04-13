@@ -1,0 +1,24 @@
+{
+  "name": "SwarmBase Pioneer",
+  "description": "Founding member of the SwarmBase community. Earned by completing registration on SwarmCore.",
+  "image": "https://markpolymorph-png.github.io/swarmbase-nft-metadata/images/1.svg",
+  "external_url": "https://swarmbase.io",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Pioneer"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Soulbound"
+    },
+    {
+      "trait_type": "Score Required",
+      "value": "Registered"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "Unlimited"
+    }
+  ]
+}
