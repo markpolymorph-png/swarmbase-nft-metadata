@@ -1,0 +1,24 @@
+{
+  "name": "SwarmBase Builder",
+  "description": "Active contributor to the SwarmBase ecosystem. Earned by reaching 1,000 SwarmScore.",
+  "image": "https://markpolymorph-png.github.io/swarmbase-nft-metadata/images/2.svg",
+  "external_url": "https://swarmbase.io",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Soulbound"
+    },
+    {
+      "trait_type": "Score Required",
+      "value": "1,000 SwarmScore"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "Unlimited"
+    }
+  ]
+}
